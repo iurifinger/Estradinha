@@ -1,0 +1,19 @@
+{
+  "name": "Estradinhas RS — Nossa exploração",
+  "short_name": "Estradinhas RS",
+  "description": "Planejador de passeios por estradas vicinais com mapa e registro de GPS.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#102337",
+  "theme_color": "#102238",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ]
+}
